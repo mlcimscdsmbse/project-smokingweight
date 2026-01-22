@@ -1,6 +1,6 @@
 # Smoking and weight gain project
 
-### Machine Learning and Causal Inference. MSc in Data Science Methodology. Barcelona School of Economics.
+### Causal Inference and Machine Learning. MSc in Data Science Methodology. Barcelona School of Economics.
 
 Project idea borrowed from the book by Hernan and Robins (2021).
 
@@ -42,8 +42,8 @@ Failing in any of these formal aspects will penalize the grade.
 This project has to be submitted using
 [GitHub Classroom](https://classroom.github.com). This
 means that you should have cloned the GitHub repo of this project
-from the organization account for MLCI in the corresponding academic
-year at https://github.com/MLCIXXXX using the submission link
+from the organization account for CIML in the corresponding academic
+year at https://github.com/MLCIXX using the submission link
 provided at the Google Classroom.
 
 Once you have cloned this GitHub repo, then you can work on it in
